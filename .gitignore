@@ -1,0 +1,4 @@
+.DS_Store
+env
+.env
+datasets/medical-imaging/input/images/*
