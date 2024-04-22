@@ -1,0 +1,470 @@
+id,condition,disease_comment,age_at_diagnosis,age,height,weight,gender,handedness,appearance_in_kinship,effect_of_alcohol_on_tremor,label
+1,Healthy,Not Applicable,56,56,173,78,MALE,RIGHT,True,Unknown,0
+2,Other Movement Disorders,Left-Sided resting tremor and hypokinesia without presynaptic striatal deficit,69,81,193,104,MALE,RIGHT,False,No effect,2
+3,Healthy,Not Applicable,45,45,170,78,FEMALE,RIGHT,False,Unknown,0
+4,Parkinson's,IPS akinetic-rigid type,63,67,161,90,FEMALE,RIGHT,False,No effect,1
+5,Parkinson's,IPS tremordominant type,65,75,172,86,MALE,LEFT,False,Unknown,1
+6,Parkinson's,"IPS currently inpatient treatment for epilepsy, condition after medial infarction on the right",60,72,171,115,FEMALE,RIGHT,False,Unknown,1
+7,Other Movement Disorders,Atypical IPS,73,74,181,94,MALE,RIGHT,False,No effect,2
+8,Parkinson's,IPS mixed type,65,73,168,65,FEMALE,RIGHT,False,No effect,1
+9,Parkinson's,IPS mixed type. THS. Essential Tremor,35,47,184,85,MALE,LEFT,False,Unknown,1
+10,Parkinson's,IPS hypokinetic-rigid type,47,56,187,77,MALE,RIGHT,False,Unknown,1
+11,Other Movement Disorders,"Dystonia-Parkinson-Syndrome, possibly genetically",45,51,183,77,MALE,RIGHT,False,No effect,2
+12,Parkinson's,IPS mixed type,51,52,189,88,MALE,RIGHT,False,Unknown,1
+13,Parkinson's,IPS akinetic-rigid type,59,64,178,90,MALE,RIGHT,True,Worsening,1
+14,Parkinson's,IPS hypokinetic-rigid type. Duodopapump,57,72,162,54,FEMALE,RIGHT,False,Unknown,1
+15,Atypical Parkinsonism,MSA-P,59,64,158,69,FEMALE,LEFT,False,Unknown,2
+16,Other Movement Disorders,Left-sided tremor. Maybe increased physiological tremor,69,69,180,92,MALE,RIGHT,True,Worsening,2
+17,Multiple Sclerosis,Multiple Sclerosis,45,51,195,105,MALE,RIGHT,False,Unknown,2
+18,Atypical Parkinsonism,"IPS mixed type DD, MSA-P",50,54,180,68,FEMALE,RIGHT,False,Worsening,2
+19,Parkinson's,IPS tremordominant type,53,64,180,83,MALE,RIGHT,True,Unknown,1
+20,Parkinson's,Starting MSA-P,69,71,176,79,MALE,LEFT,False,Unknown,1
+21,Healthy,Not Applicable,64,64,184,105,MALE,LEFT,False,Unknown,0
+22,Parkinson's,"IPS akinetic-rigid type, THS, Duodopapump",51,57,174,73,FEMALE,RIGHT,False,Unknown,1
+23,Other Movement Disorders,Coarse resting tremor right with unknown cause,49,56,178,83,FEMALE,RIGHT,False,Unknown,2
+24,Other Movement Disorders,Cervical dystonia,65,68,170,77,MALE,RIGHT,False,Unknown,2
+25,Parkinson's,IPS hypokinetic-rigid type,69,71,159,49,FEMALE,RIGHT,False,No effect,1
+26,Parkinson's,Atypical Parkinsonism with orthostatic dysregulation,72,74,180,80,MALE,RIGHT,False,Unknown,1
+27,Healthy,Not Applicable,76,76,175,79,FEMALE,LEFT,False,Unknown,0
+28,Parkinson's,IPS tremordominant type,57,67,185,100,MALE,RIGHT,False,No effect,1
+29,Parkinson's,"IPS, THS",33,48,175,70,MALE,RIGHT,False,No effect,1
+30,Parkinson's,IPS tremordominant type,60,61,189,106,MALE,RIGHT,True,No effect,1
+31,Parkinson's,Not Applicable,65,70,183,112,MALE,RIGHT,False,Unknown,1
+32,Atypical Parkinsonism,"IPS akinetic-rigid type, DD, PSP of Parkinson type",69,77,176,79,MALE,RIGHT,False,Unknown,2
+33,Parkinson's,IPS tremordominant type,75,77,183,101,MALE,LEFT,False,Unknown,1
+34,Healthy,Not Applicable,51,51,160,79,FEMALE,RIGHT,False,Unknown,0
+35,Other Movement Disorders,Cervical dystonia with Torticollis with tremor. Essential Tremor,50,72,168,104,MALE,RIGHT,True,Improvement,2
+36,Multiple Sclerosis,Multiple Sclerosis of secondary progressive type,24,40,183,75,MALE,RIGHT,True,No effect,2
+37,Other Movement Disorders,Coronary heart disease,0,70,171,78,MALE,RIGHT,False,No effect,2
+38,Parkinson's,"IPS hypokinetic-rigid type, THS",43,51,188,90,MALE,RIGHT,False,No effect,1
+39,Parkinson's,IPS akinetic-rigid type,59,78,170,94,MALE,RIGHT,False,No effect,1
+40,Parkinson's,"IPS tremordominant type, THS",54,56,174,95,MALE,RIGHT,False,Unknown,1
+41,Parkinson's,IPS mixed type,56,64,192,98,MALE,RIGHT,False,Unknown,1
+42,Other Movement Disorders,"Unknown Tremor, especially of the head",80,80,165,78,FEMALE,RIGHT,True,No effect,2
+43,Other Movement Disorders,Lewy-Body disease with posture tremor,69,73,183,88,MALE,RIGHT,False,No effect,2
+44,Multiple Sclerosis,Multiple Sclerosis,43,55,182,73,MALE,RIGHT,False,No effect,2
+45,Healthy,Not Applicable,49,49,167,53,FEMALE,RIGHT,False,Unknown,0
+46,Healthy,Not Applicable,60,60,178,69,MALE,RIGHT,False,No effect,0
+47,Parkinson's,IPS akinetic-rigid type,70,72,180,86,MALE,RIGHT,False,No effect,1
+48,Parkinson's,IPS tremordominant type,66,69,177,82,MALE,RIGHT,True,No effect,1
+49,Parkinson's,"IPS hypokinetic-rigid type, THS",38,61,182,81,MALE,RIGHT,False,No effect,1
+50,Other Movement Disorders,Not Applicable,37,45,174,56,FEMALE,RIGHT,False,Unknown,2
+51,Parkinson's,IPS mixed type,53,70,159,53,FEMALE,RIGHT,False,Unknown,1
+52,Healthy,Not Applicable,49,49,185,89,MALE,LEFT,False,No effect,0
+53,Parkinson's,IPS mixed type,58,70,169,61,FEMALE,RIGHT,False,No effect,1
+54,Healthy,Not Applicable,40,40,183,88,FEMALE,RIGHT,True,No effect,0
+55,Parkinson's,"IPS mixed type, THS",53,63,178,85,MALE,RIGHT,False,No effect,1
+56,Parkinson's,IPS hypokinetic-rigid type,48,53,184,72,FEMALE,RIGHT,False,Unknown,1
+57,Parkinson's,IPS hypokinetic-rigid type,71,75,160,58,MALE,RIGHT,False,Unknown,1
+58,Other Movement Disorders,Segmental Dystonia,48,60,173,64,MALE,RIGHT,False,Improvement,2
+59,Parkinson's,Atypical Parkinsonism,58,59,153,60,FEMALE,RIGHT,False,Unknown,1
+60,Parkinson's,IPS tremordominant type,47,53,177,73,MALE,RIGHT,True,Improvement,1
+61,Parkinson's,"IPS hypokinetic-rigid type, hypertension",66,70,182,82,MALE,RIGHT,False,No effect,1
+62,Healthy,Not Applicable,79,79,160,49,FEMALE,RIGHT,False,No effect,0
+63,Parkinson's,"IPS tremordominant type, Restless-Legs-Syndrom",52,58,179,97,MALE,RIGHT,True,No effect,1
+64,Atypical Parkinsonism,MSA-P,55,58,175,122,MALE,RIGHT,False,Unknown,2
+65,Parkinson's,"IPS mixed type, THS",32,47,175,70,MALE,RIGHT,False,No effect,1
+66,Essential Tremor,Essential Tremor,6,64,172,88,MALE,RIGHT,False,Improvement,2
+67,Parkinson's,IPS mixed type,58,65,180,110,MALE,RIGHT,True,No effect,1
+68,Parkinson's,IPS tremordominant type,56,60,180,90,MALE,RIGHT,False,Unknown,1
+69,Parkinson's,IPS mixed type,53,57,152,65,FEMALE,RIGHT,False,Unknown,1
+70,Essential Tremor,THS. Before optimization of THS,60,78,155,60,FEMALE,RIGHT,False,No effect,2
+71,Parkinson's,"IPS tremordominant type, distinctive tremor in whole left arm. THS. The device for THS was deactivated",33,46,184,110,MALE,RIGHT,False,Unknown,1
+72,Essential Tremor,Not Applicable,27,62,180,99,MALE,RIGHT,False,No effect,2
+73,Parkinson's,"IPS mixed type, THS",37,49,167,74,MALE,RIGHT,False,No effect,1
+74,Parkinson's,IPS mixed type. Restless-Legs-Syndrom.,72,83,165,62,FEMALE,RIGHT,False,Improvement,1
+75,Other Movement Disorders,"Idiopathic generalized dystonia, THS",36,66,170,80,FEMALE,LEFT,False,No effect,2
+76,Parkinson's,IPS mixed type,60,66,178,108,MALE,RIGHT,False,No effect,1
+77,Other Movement Disorders,Dystonial tremor of the head. Anamnestic also generalized tremor/dystonia,37,41,170,60,FEMALE,RIGHT,False,No effect,2
+78,Healthy,Not Applicable,63,63,154,56,FEMALE,LEFT,False,Unknown,0
+79,Essential Tremor,Essential Tremor,59,69,187,88,MALE,RIGHT,True,Unknown,2
+80,Healthy,Not Applicable,71,71,170,68,FEMALE,LEFT,False,Unknown,0
+81,Healthy,Not Applicable,67,67,180,102,MALE,RIGHT,False,No effect,0
+82,Parkinson's,IPS hypokinetic-rigid type,71,81,178,70,MALE,RIGHT,False,Unknown,1
+83,Parkinson's,IPS tremordominant type,66,75,170,81,FEMALE,RIGHT,False,No effect,1
+84,Healthy,Not Applicable,90,90,180,80,MALE,LEFT,False,Unknown,0
+85,Parkinson's,IPS akinetic-rigid type,50,69,178,69,MALE,RIGHT,False,No effect,1
+86,Parkinson's,"IPS hypokinetic-rigid type, fluctuations in effect",40,46,163,69,FEMALE,RIGHT,True,Unknown,1
+87,Parkinson's,"IPS tremordominant type, SWEDD",52,56,203,140,MALE,RIGHT,True,No effect,1
+88,Essential Tremor,Essential Tremor and oromandibular dystonia. Risperidon-associated,60,70,183,82,MALE,RIGHT,True,Improvement,2
+89,Parkinson's,IPS hypokinetic-rigid type,67,69,187,94,MALE,RIGHT,False,No effect,1
+90,Parkinson's,IPS tremordominant type,71,73,173,97,MALE,RIGHT,True,No effect,1
+91,Essential Tremor,Essential Tremor,64,69,163,65,MALE,RIGHT,True,Unknown,2
+92,Parkinson's,IPS mixed type,48,55,192,85,MALE,RIGHT,True,Worsening,1
+93,Parkinson's,IPS tremordominant type,52,62,175,127,MALE,RIGHT,True,Improvement,1
+94,Parkinson's,IPS hypokinetic-rigid type,67,69,186,91,MALE,RIGHT,True,No effect,1
+95,Parkinson's,IPS tremordominant type,76,77,156,53,FEMALE,RIGHT,False,No effect,1
+96,Parkinson's,IPS hypokinetic-rigid type,62,70,175,83,MALE,RIGHT,False,Worsening,1
+97,Healthy,Not Applicable,67,67,170,124,FEMALE,RIGHT,False,Unknown,0
+98,Multiple Sclerosis,Multiple Sclerosis of relapsing type,0,59,192,115,MALE,RIGHT,False,Unknown,2
+99,Parkinson's,IPS mixed type,45,68,185,88,MALE,RIGHT,False,Unknown,1
+100,Essential Tremor,Essential Tremor,39,49,187,90,MALE,RIGHT,False,No effect,2
+101,Healthy,Not Applicable,58,58,166,60,FEMALE,RIGHT,False,No effect,0
+102,Parkinson's,IPS akinetic-rigid type,64,80,171,93,MALE,RIGHT,True,No effect,1
+103,Other Movement Disorders,Not Applicable,52,53,186,100,MALE,RIGHT,False,No effect,2
+104,Essential Tremor,Essential Tremor,59,63,173,63,MALE,RIGHT,False,Unknown,2
+105,Parkinson's,Parkinsonism with right-sided rigor and tremor of the upper extremities,76,76,180,67,MALE,RIGHT,False,Unknown,1
+106,Atypical Parkinsonism,"PSP a.e. type Richardson, Restless-Legs-Syndrome",73,74,158,62,FEMALE,RIGHT,False,Unknown,2
+107,Parkinson's,"IPS hypokinetic-rigid type, THS",37,49,165,100,FEMALE,RIGHT,False,No effect,1
+108,Healthy,Not Applicable,61,61,165,63,FEMALE,RIGHT,False,Unknown,0
+109,Parkinson's,"IPS mixed type, Restless-Legs-Syndrom.",73,79,170,70,MALE,RIGHT,False,No effect,1
+110,Atypical Parkinsonism,MSA-P,67,67,158,88,FEMALE,RIGHT,False,Unknown,2
+111,Other Movement Disorders,"Tremor of unknown etiology, DD, SWEDD syndrome, Restless Legs Syndrom",42,46,163,76,FEMALE,RIGHT,False,Worsening,2
+112,Essential Tremor,Essential Tremor,64,64,161,56,FEMALE,RIGHT,True,Improvement,2
+113,Parkinson's,"IPS mixed type, THS",56,66,175,90,MALE,RIGHT,False,Worsening,1
+114,Atypical Parkinsonism,Multiple System Atrophy of Parkinson type,57,61,165,68,FEMALE,RIGHT,True,Unknown,2
+115,Parkinson's,Essential Tremor,56,57,183,86,MALE,RIGHT,True,Improvement,1
+116,Parkinson's,"IPS mixed type, THS",43,56,183,84,MALE,RIGHT,False,Unknown,1
+117,Other Movement Disorders,"Hypokinetic-rigid syndrome, vascular Parkinson syndrome",0,82,172,76,MALE,RIGHT,False,Unknown,2
+118,Atypical Parkinsonism,MSA-C,64,67,160,55,FEMALE,RIGHT,False,Unknown,2
+119,Parkinson's,IPS akinetic-rigid type,47,54,172,80,MALE,RIGHT,False,Unknown,1
+120,Parkinson's,Vascular L-Dopa-responsives. hypokinetic rigid parkinsonism,0,67,175,75,MALE,RIGHT,False,No effect,1
+121,Healthy,Not Applicable,48,48,172,73,FEMALE,RIGHT,True,Unknown,0
+122,Parkinson's,IPS mixed type,60,72,178,63,MALE,RIGHT,True,No effect,1
+123,Other Movement Disorders,"Starting IPS DD, age dependent tremor DD, asymmetric Essential Tremor",66,69,179,77,MALE,RIGHT,True,Worsening,2
+124,Essential Tremor,"Essential Tremor, THS",40,59,186,88,FEMALE,RIGHT,True,Unknown,2
+125,Parkinson's,IPS tremordominant type,50,52,175,100,MALE,RIGHT,False,Unknown,1
+126,Essential Tremor,Not Applicable,53,63,170,81,MALE,RIGHT,False,No effect,2
+127,Parkinson's,IPS akinetic-rigid type,48,51,168,105,FEMALE,RIGHT,False,Unknown,1
+128,Parkinson's,"IPS mixed type, DD: vascular, idiopathic",55,56,152,96,FEMALE,RIGHT,False,Unknown,1
+129,Parkinson's,"Atypical Parkinsonism, Partial vertical gaze palsy",67,70,190,99,MALE,RIGHT,False,No effect,1
+130,Other Movement Disorders,Asymmetric tremor of the hands of unknown etiology,58,59,170,60,FEMALE,RIGHT,False,Unknown,2
+131,Parkinson's,IPS tremordominant type,65,75,172,86,MALE,RIGHT,False,Unknown,1
+132,Healthy,Not Applicable,63,63,186,86,MALE,LEFT,False,Unknown,0
+133,Parkinson's,IPS tremordominant type,66,68,172,105,FEMALE,RIGHT,True,No effect,1
+134,Healthy,Not Applicable,48,48,184,90,MALE,RIGHT,False,Unknown,0
+135,Parkinson's,IPS mixed type,69,69,172,71,FEMALE,RIGHT,True,Unknown,1
+136,Parkinson's,"Hypokinetic-rigid Type, left-sided, DD, atypical Parkinsonism",62,63,170,100,FEMALE,RIGHT,False,Unknown,1
+137,Other Movement Disorders,Cervical dystonia,63,69,175,76,MALE,RIGHT,True,Improvement,2
+138,Other Movement Disorders,Mild cervical dystonia,55,55,169,70,FEMALE,RIGHT,False,No effect,2
+139,Parkinson's,IPS mixed type,64,70,176,64,MALE,RIGHT,False,Unknown,1
+140,Other Movement Disorders,Torticolis to the left with dystonic tremor,38,54,173,63,FEMALE,RIGHT,False,No effect,2
+141,Healthy,Not Applicable,64,64,179,77,MALE,RIGHT,False,Unknown,0
+142,Multiple Sclerosis,SPMS,31,60,172,73,FEMALE,RIGHT,False,Unknown,2
+143,Essential Tremor,"Essential Tremor of head and hands, THS",58,61,165,71,FEMALE,RIGHT,True,Improvement,2
+144,Parkinson's,"IPS mixed type, THS",40,49,195,92,MALE,RIGHT,False,No effect,1
+145,Parkinson's,IPS hypokinetic-rigid type,63,70,186,104,MALE,RIGHT,False,No effect,1
+146,Parkinson's,IPS tremordominant type,68,71,186,89,MALE,RIGHT,True,Improvement,1
+147,Parkinson's,IPS akinetic-rigid type,50,66,164,58,FEMALE,RIGHT,True,Unknown,1
+148,Healthy,Not Applicable,80,80,169,77,MALE,RIGHT,False,No effect,0
+149,Parkinson's,IPS tremordominant type,68,72,178,74,MALE,RIGHT,True,No effect,1
+150,Parkinson's,"IPS hypokinetic-rigid type, no tremor, THS",54,58,170,63,FEMALE,RIGHT,False,Unknown,1
+151,Parkinson's,"IPS mixed type, THS",47,56,189,110,MALE,RIGHT,False,No effect,1
+152,Healthy,Not Applicable,56,56,187,120,MALE,RIGHT,False,No effect,0
+153,Healthy,Not Applicable,77,77,173,77,MALE,RIGHT,True,No effect,0
+154,Parkinson's,"IPS hypokinetic-rigid type, THS",39,61,182,80,MALE,RIGHT,False,Unknown,1
+155,Parkinson's,Not Applicable,45,51,170,100,MALE,RIGHT,False,Improvement,1
+156,Parkinson's,IPS akinetic-rigid type,58,69,160,50,FEMALE,RIGHT,False,No effect,1
+157,Parkinson's,IPS hypokinetic-rigid type,61,75,173,83,MALE,RIGHT,True,No effect,1
+158,Atypical Parkinsonism,"Atypical Parkinsonism, DD, PSP",75,79,169,60,MALE,RIGHT,False,Unknown,2
+159,Parkinson's,IPS tremordominant type,46,50,163,80,FEMALE,RIGHT,False,No effect,1
+160,Healthy,Not Applicable,76,76,160,63,FEMALE,RIGHT,False,Unknown,0
+161,Other Movement Disorders,Atypical Parkinsonism,67,70,190,95,MALE,RIGHT,False,No effect,2
+162,Parkinson's,IPS akinetic-rigid type,35,46,168,69,FEMALE,RIGHT,False,Unknown,1
+163,Parkinson's,IPS tremordominant type,69,71,175,100,MALE,RIGHT,False,No effect,1
+164,Other Movement Disorders,Right dominant tremor. Maybe Lithium-associated,42,68,178,85,MALE,RIGHT,False,Worsening,2
+165,Healthy,Not Applicable,56,56,175,88,MALE,RIGHT,False,Unknown,0
+166,Parkinson's,IPS mixed type,67,75,175,85,MALE,RIGHT,False,No effect,1
+167,Healthy,Not Applicable,58,58,162,46,FEMALE,RIGHT,False,Unknown,0
+168,Atypical Parkinsonism,MSA of cerebellar type,66,67,174,80,MALE,RIGHT,False,Unknown,2
+169,Parkinson's,IPS hypokinetic-rigid type,51,56,180,82,FEMALE,RIGHT,True,Unknown,1
+170,Parkinson's,IPS akinetic-rigid type,64,71,173,105,MALE,RIGHT,False,Unknown,1
+171,Essential Tremor,"Essential Tremor, THS",67,70,181,140,MALE,RIGHT,True,No effect,2
+172,Parkinson's,IPS akinetic-rigid type,59,65,163,103,FEMALE,RIGHT,False,Unknown,1
+173,Parkinson's,IPS hypokinetic-rigid type,67,78,175,60,FEMALE,RIGHT,False,No effect,1
+174,Parkinson's,IPS mixed type,64,66,173,86,MALE,RIGHT,False,No effect,1
+175,Parkinson's,"IPS mixed type, THS",51,61,168,80,FEMALE,RIGHT,True,No effect,1
+176,Other Movement Disorders,Bacterial Meningitis,0,43,168,110,FEMALE,RIGHT,False,No effect,2
+177,Healthy,Not Applicable,69,69,162,67,FEMALE,RIGHT,False,No effect,0
+178,Other Movement Disorders,SWEDD,0,41,174,66,FEMALE,LEFT,True,No effect,2
+179,Parkinson's,Not Applicable,65,75,177,80,MALE,RIGHT,False,No effect,1
+180,Parkinson's,IPS hypokinetic-rigid type,49,73,160,73,FEMALE,RIGHT,False,No effect,1
+181,Parkinson's,IPS akinetic-rigid type,51,67,153,53,MALE,RIGHT,False,No effect,1
+182,Parkinson's,IPS tremordominant type,60,66,182,100,MALE,RIGHT,True,No effect,1
+183,Other Movement Disorders,Torticollis to the left with dystonic tremor,39,54,173,61,FEMALE,RIGHT,False,Improvement,2
+184,Healthy,Not Applicable,54,54,176,67,FEMALE,RIGHT,False,Unknown,0
+185,Parkinson's,IPS akinetic-rigid type,63,72,171,92,MALE,LEFT,True,Unknown,1
+186,Parkinson's,IPS hypokinetic-rigid type,60,65,160,73,FEMALE,RIGHT,False,No effect,1
+187,Parkinson's,IPS hypokinetic-rigid type,58,60,162,60,FEMALE,RIGHT,False,Unknown,1
+188,Essential Tremor,Not Applicable,5,79,162,62,FEMALE,RIGHT,False,No effect,2
+189,Parkinson's,IPS hypokinetic-rigid type,67,69,175,110,MALE,RIGHT,False,Unknown,1
+190,Parkinson's,"IPS hypokinetic-rigid type, complete dyskinesia",57,67,167,48,FEMALE,RIGHT,False,Unknown,1
+191,Other Movement Disorders,Dystonic movement disorder. Tremor of the head. Torticollis to he right. THS,48,56,173,68,FEMALE,RIGHT,True,Unknown,2
+192,Parkinson's,IPS mixed type,65,74,180,77,MALE,RIGHT,False,No effect,1
+193,Healthy,Not Applicable,40,40,183,78,MALE,RIGHT,False,Unknown,0
+194,Parkinson's,IPS mixed type,50,53,178,98,MALE,RIGHT,True,Improvement,1
+195,Multiple Sclerosis,Multiple Sclerosis,0,57,182,87,MALE,RIGHT,False,Unknown,2
+196,Other Movement Disorders,Cervical dystonia with rotatory Torticollis to the right side and Retrocollis. THS,63,69,174,76,MALE,RIGHT,True,Worsening,2
+197,Parkinson's,IPS hypokinetic-rigid type,75,77,185,78,MALE,RIGHT,False,Unknown,1
+198,Parkinson's,IPS hypokinetic-rigid type,59,65,184,90,MALE,RIGHT,True,Worsening,1
+199,Healthy,Not Applicable,70,70,170,85,MALE,RIGHT,False,No effect,0
+200,Essential Tremor,Essential Tremor,51,54,182,100,MALE,RIGHT,True,No effect,2
+201,Parkinson's,IPS mixed type,46,48,159,57,FEMALE,RIGHT,False,No effect,1
+202,Parkinson's,"IPS hypokinetic-rigid type, THS",31,56,193,95,MALE,RIGHT,False,Unknown,1
+203,Healthy,Not Applicable,88,88,168,56,FEMALE,LEFT,False,Unknown,0
+204,Healthy,Not Applicable,56,56,175,88,MALE,RIGHT,False,Unknown,0
+205,Healthy,Not Applicable,78,78,170,75,FEMALE,RIGHT,False,No effect,0
+206,Parkinson's,IPS mixed type,58,61,175,69,MALE,RIGHT,True,No effect,1
+207,Other Movement Disorders,"Essential Tremor, DD functional Tremor",45,78,173,94,FEMALE,RIGHT,False,Improvement,2
+208,Parkinson's,"IPS hypokinetic-rigid type, THS",57,67,180,77,MALE,RIGHT,True,Unknown,1
+209,Other Movement Disorders,Leukoencephalopathy of unknown etiology,47,48,161,68,FEMALE,RIGHT,True,Improvement,2
+210,Parkinson's,"IPS hypokinetic-rigid type, THS before optimization",37,61,182,83,MALE,RIGHT,True,No effect,1
+211,Parkinson's,"IPS mixed type, THS",53,69,168,69,MALE,LEFT,True,No effect,1
+212,Healthy,Not Applicable,71,71,165,92,FEMALE,RIGHT,False,No effect,0
+213,Other Movement Disorders,Restless-Legs-Syndrom,56,69,168,65,FEMALE,RIGHT,False,Unknown,2
+214,Healthy,Not Applicable,76,76,160,64,FEMALE,RIGHT,False,Unknown,0
+215,Parkinson's,IPS akinetic-rigid type,62,70,165,75,MALE,RIGHT,False,Unknown,1
+216,Parkinson's,IPS mixed type,73,78,172,70,MALE,RIGHT,False,Unknown,1
+217,Parkinson's,IPS mixed type,65,73,182,85,MALE,RIGHT,False,No effect,1
+218,Parkinson's,IPS mixed type,52,57,180,110,MALE,RIGHT,False,No effect,1
+219,Parkinson's,IPS hypokinetic-rigid type,60,72,180,85,MALE,RIGHT,False,No effect,1
+220,Parkinson's,IPS hypokinetic-rigid type,64,74,175,72,MALE,RIGHT,True,Unknown,1
+221,Parkinson's,"IPS akinetic-rigid type with fluctuations in effect, measured before the L-Dopa test, medication was paused",47,56,175,81,MALE,RIGHT,False,Unknown,1
+222,Essential Tremor,Essential Tremor,82,85,178,80,MALE,LEFT,False,No effect,2
+223,Parkinson's,IPS mixed type,60,65,165,64,FEMALE,RIGHT,True,Worsening,1
+224,Other Movement Disorders,L-Dopa-responsive dystonia,51,51,167,63,FEMALE,RIGHT,False,Unknown,2
+225,Multiple Sclerosis,Multiple Sclerosis,62,67,174,89,FEMALE,RIGHT,True,No effect,2
+226,Parkinson's,"IPS akinetic-rigid type, THS",47,54,183,102,MALE,RIGHT,False,Unknown,1
+227,Healthy,Not Applicable,65,65,55,59,FEMALE,RIGHT,False,No effect,0
+228,Parkinson's,IPS tremordominant type,57,70,156,60,FEMALE,RIGHT,True,No effect,1
+229,Healthy,Not Applicable,68,68,179,100,MALE,RIGHT,False,No effect,0
+230,Healthy,Not Applicable,70,70,160,65,FEMALE,RIGHT,False,Unknown,0
+231,Healthy,Not Applicable,52,52,168,109,FEMALE,RIGHT,False,No effect,0
+232,Healthy,Not Applicable,54,54,172,78,FEMALE,RIGHT,False,Unknown,0
+233,Parkinson's,IPS hypokinetic-rigid type,67,73,180,78,MALE,RIGHT,False,Unknown,1
+234,Parkinson's,"IPS mixed type, severe Restless-Legs-Syndrom, THS",60,68,170,90,MALE,RIGHT,False,Worsening,1
+235,Parkinson's,"IPS mixed type, THS",58,78,172,73,MALE,RIGHT,False,Worsening,1
+236,Parkinson's,IPS hypokinetic-rigid type,76,81,178,80,MALE,RIGHT,False,No effect,1
+237,Parkinson's,IPS mixed type,0,60,168,70,FEMALE,RIGHT,False,No effect,1
+238,Atypical Parkinsonism,PSP with predominant speech disorder,54,61,165,110,MALE,RIGHT,False,Unknown,2
+239,Parkinson's,IPS mixed type,73,83,175,75,MALE,RIGHT,False,Unknown,1
+240,Parkinson's,IPS hypokinetic-rigid type,75,78,173,85,MALE,RIGHT,True,Unknown,1
+241,Other Movement Disorders,"Atypical Parkinsonism, DD, spinocerebellar ataxia",75,82,178,78,MALE,RIGHT,True,Unknown,2
+242,Parkinson's,IPS tremordominant type,0,59,175,105,MALE,RIGHT,False,Unknown,1
+243,Parkinson's,"IPS hypokinetic-rigid type, THS",36,48,165,105,FEMALE,RIGHT,False,Unknown,1
+244,Parkinson's,IPS mixed type,51,53,183,110,MALE,RIGHT,False,Unknown,1
+245,Parkinson's,IPS mixed type,48,63,168,70,FEMALE,RIGHT,True,Unknown,1
+246,Parkinson's,IPS hypokinetic-rigid type,62,77,183,82,MALE,RIGHT,False,No effect,1
+247,Healthy,Not Applicable,68,68,180,88,MALE,RIGHT,False,Unknown,0
+248,Parkinson's,IPS mixed type,56,70,158,45,FEMALE,RIGHT,False,Unknown,1
+249,Parkinson's,IPS akinetic-rigid type,61,64,165,71,FEMALE,RIGHT,True,Unknown,1
+250,Healthy,Not Applicable,42,42,168,68,FEMALE,RIGHT,False,Unknown,0
+251,Healthy,Not Applicable,52,52,170,73,FEMALE,RIGHT,False,No effect,0
+252,Parkinson's,IPS hypokinetic-rigid type,43,49,178,83,FEMALE,RIGHT,False,Unknown,1
+253,Healthy,Not Applicable,61,61,162,86,FEMALE,LEFT,False,Unknown,0
+254,Healthy,Not Applicable,57,57,176,91,MALE,RIGHT,True,Unknown,0
+255,Parkinson's,IPS mixed type,69,77,184,83,MALE,RIGHT,False,No effect,1
+256,Parkinson's,"IPS akinetic-rigid type, THS",48,54,172,79,FEMALE,RIGHT,True,No effect,1
+257,Parkinson's,IPS tremordominant type,76,78,180,90,MALE,RIGHT,False,No effect,1
+258,Parkinson's,IPS akinetic-rigid type,59,66,188,97,MALE,RIGHT,True,No effect,1
+259,Parkinson's,IPS mixed type,52,62,185,111,MALE,RIGHT,False,Unknown,1
+260,Parkinson's,IPS mixed type,0,68,178,90,MALE,RIGHT,False,Unknown,1
+261,Parkinson's,IPS akinetic-rigid type,67,72,176,98,MALE,RIGHT,False,Unknown,1
+262,Parkinson's,IPS mixed type,55,68,172,68,MALE,RIGHT,False,Unknown,1
+263,Parkinson's,"IPS tremordominant type, THS",46,54,191,98,MALE,LEFT,False,No effect,1
+264,Parkinson's,IPS akinetic-rigid type,53,59,190,108,MALE,RIGHT,False,No effect,1
+265,Parkinson's,IPS tremordominant type,68,75,176,69,MALE,RIGHT,True,Improvement,1
+266,Parkinson's,Not Applicable,75,75,175,90,MALE,LEFT,True,No effect,1
+267,Parkinson's,Restless-Legs syndrome,70,73,166,103,FEMALE,RIGHT,False,Unknown,1
+268,Parkinson's,"Segmental dystonia, THS ",43,46,183,97,FEMALE,RIGHT,False,No effect,1
+269,Parkinson's,Not Applicable,65,85,154,50,FEMALE,LEFT,True,No effect,1
+270,Parkinson's,IPS tremordominant type,56,58,170,67,FEMALE,RIGHT,True,No effect,1
+271,Parkinson's,"IPS mixed type, Periodic movement of legs while asleep",69,74,200,100,MALE,RIGHT,True,No effect,1
+272,Healthy,Not Applicable,70,70,170,70,FEMALE,RIGHT,True,Unknown,0
+273,Other Movement Disorders,Dystonia of unknown etiology,48,51,179,93,FEMALE,RIGHT,False,Unknown,2
+274,Parkinson's,IPS mixed type,57,67,170,75,MALE,RIGHT,False,No effect,1
+275,Essential Tremor,Essential Tremor and Alzheimer‘s Disease,63,64,185,83,MALE,RIGHT,True,Improvement,2
+276,Other Movement Disorders,ET DD functional tremor right arm and mild tremor of the head,14,42,178,62,FEMALE,RIGHT,True,Unknown,2
+277,Parkinson's,IPS hypokinetic-rigid type,52,53,190,87,MALE,RIGHT,False,No effect,1
+278,Essential Tremor,"Essential Tremor, THS",19,61,176,91,MALE,RIGHT,True,Unknown,2
+279,Parkinson's,Essential Tremor DD IPS,64,69,191,92,MALE,RIGHT,False,Unknown,1
+280,Atypical Parkinsonism,Multiple System Atrophy of Combined-Type,73,77,162,65,FEMALE,RIGHT,False,Unknown,2
+281,Parkinson's,IPS mixed type,68,71,170,100,MALE,RIGHT,False,Unknown,1
+282,Parkinson's,IPS akinetic-rigid type,60,78,175,68,MALE,RIGHT,False,Unknown,1
+283,Healthy,Not Applicable,61,61,170,103,FEMALE,RIGHT,False,No effect,0
+284,Healthy,Not Applicable,83,83,180,77,MALE,RIGHT,False,Unknown,0
+285,Healthy,Not Applicable,79,79,169,68,FEMALE,RIGHT,False,Unknown,0
+286,Parkinson's,IPS hypokinetic-rigid type,47,55,185,77,MALE,RIGHT,False,Unknown,1
+287,Other Movement Disorders,Adult multifocal dystonia of unknown etiology,43,44,167,68,FEMALE,LEFT,False,Unknown,2
+288,Other Movement Disorders,Chorea minor Sydenham,48,48,172,79,FEMALE,RIGHT,False,Unknown,2
+289,Parkinson's,IPS hypokinetic-rigid type,78,84,180,71,MALE,RIGHT,False,Unknown,1
+290,Parkinson's,"IPS akinetic-rigid type, THS",54,75,173,60,FEMALE,LEFT,False,Unknown,1
+291,Atypical Parkinsonism,Possible MSA-C,65,66,175,86,MALE,RIGHT,True,Unknown,2
+292,Parkinson's,"IPS mixed type, Restless-Legs-Syndrom.",72,81,165,55,FEMALE,RIGHT,False,Unknown,1
+293,Parkinson's,IPS mixed type,73,79,160,53,FEMALE,RIGHT,True,Unknown,1
+294,Healthy,Not Applicable,62,62,157,89,FEMALE,RIGHT,False,No effect,0
+295,Healthy,Not Applicable,64,64,170,79,MALE,RIGHT,False,No effect,0
+296,Parkinson's,IPS tremordominant type,62,63,189,95,MALE,LEFT,False,Improvement,1
+297,Other Movement Disorders,"Idiopathic polyneuropathy with ataxy and tremor – DD hereditary, DD inflammatory",60,65,167,50,FEMALE,RIGHT,False,Worsening,2
+298,Other Movement Disorders,"IPS of tremordominant type, DD, SWEDD syndrome",58,67,169,131,FEMALE,RIGHT,True,Improvement,2
+299,Parkinson's,IPS hypokinetic-rigid type,53,59,172,72,MALE,RIGHT,False,Unknown,1
+300,Parkinson's,IPS akinetic-rigid type,60,65,183,95,MALE,RIGHT,False,Unknown,1
+301,Multiple Sclerosis,Multiple Sclerosis of relapsing type,52,54,183,88,MALE,RIGHT,False,Unknown,2
+302,Essential Tremor,Essential Tremor,70,82,170,110,MALE,RIGHT,True,Unknown,2
+303,Parkinson's,"IPS mixed type, Essential Tremor",64,74,188,84,MALE,RIGHT,False,No effect,1
+304,Atypical Parkinsonism,Multiple System Atrophy of Parkinson type,62,64,172,90,MALE,RIGHT,False,No effect,2
+305,Parkinson's,Starting IPS tremordominant type,47,47,196,110,MALE,RIGHT,False,No effect,1
+306,Parkinson's,IPS akinetic-rigid type,64,74,172,90,MALE,RIGHT,False,Unknown,1
+307,Parkinson's,IPS with dystonia,37,42,193,90,MALE,RIGHT,False,Unknown,1
+308,Healthy,Not Applicable,40,40,183,88,FEMALE,RIGHT,True,No effect,0
+309,Parkinson's,"IPS, DD, MSA",62,63,190,104,MALE,RIGHT,False,Worsening,1
+310,Other Movement Disorders,"Drug-induced tremor, probably due to Valproat",59,60,172,90,FEMALE,RIGHT,False,Improvement,2
+311,Healthy,Not Applicable,66,66,163,62,FEMALE,RIGHT,False,No effect,0
+312,Parkinson's,IPS akinetic-rigid type,46,58,175,82,FEMALE,RIGHT,True,Worsening,1
+313,Parkinson's,IPS hypokinetic-rigid type,56,63,183,82,MALE,RIGHT,False,Worsening,1
+314,Other Movement Disorders,"Hypoxic brain damage in childhood with symptomatic generalized dystonia, left sided, THS",0,52,176,80,MALE,RIGHT,True,Unknown,2
+315,Other Movement Disorders,"Cervical dystonia, THS",47,56,173,68,FEMALE,RIGHT,True,Unknown,2
+316,Parkinson's,"IPS tremordominant type, Restless Legs-Syndrom",62,63,169,70,FEMALE,LEFT,False,No effect,1
+317,Other Movement Disorders,Clinically diagnosed L-Dopa responsive dystonia,50,52,167,68,FEMALE,RIGHT,False,No effect,2
+318,Other Movement Disorders,Dystonic Tremor,75,85,176,60,FEMALE,RIGHT,True,No effect,2
+319,Healthy,Not Applicable,54,54,178,94,FEMALE,RIGHT,False,Unknown,0
+320,Healthy,Not Applicable,72,72,162,57,FEMALE,RIGHT,False,Unknown,0
+321,Other Movement Disorders,Segmental Dystonia and myoclonus syndrome,0,66,162,62,FEMALE,RIGHT,False,Unknown,2
+322,Parkinson's,Lewy-Body-Dementia,0,59,184,98,MALE,RIGHT,False,Unknown,1
+323,Parkinson's,IPS akinetic-rigid type,58,71,170,94,MALE,RIGHT,False,Unknown,1
+324,Parkinson's,IPS tremordominant type,68,72,165,79,FEMALE,RIGHT,False,Unknown,1
+325,Parkinson's,IPS mixed type,53,73,172,63,MALE,RIGHT,True,Unknown,1
+326,Other Movement Disorders,Maybe normal-pressure-hydrocephalus. DD starting IPS,55,63,190,100,MALE,RIGHT,False,Unknown,2
+327,Parkinson's,IPS mixed type,65,68,186,82,MALE,RIGHT,False,Unknown,1
+328,Parkinson's,IPS mixed type,75,78,175,92,MALE,RIGHT,False,No effect,1
+329,Healthy,Not Applicable,61,61,167,71,FEMALE,RIGHT,False,No effect,0
+330,Essential Tremor,Essential Tremor,67,72,183,97,MALE,RIGHT,True,No effect,2
+331,Parkinson's,"IPS mixed type, THS",47,53,183,110,MALE,RIGHT,False,Worsening,1
+332,Parkinson's,IPS akinetic-rigid type,38,49,178,86,MALE,RIGHT,False,Unknown,1
+333,Parkinson's,Essential Tremor DD IPS,64,69,191,92,MALE,RIGHT,False,Unknown,1
+334,Other Movement Disorders,"Segmental orofacial dystonia with blepharospasm, THS",68,77,160,72,FEMALE,RIGHT,True,No effect,2
+335,Healthy,Not Applicable,67,67,167,63,FEMALE,RIGHT,True,Unknown,0
+336,Parkinson's,IPS tremordominant type. Resting tremor right,78,82,160,58,FEMALE,RIGHT,False,No effect,1
+337,Healthy,Not Applicable,55,55,169,70,FEMALE,RIGHT,True,No effect,0
+338,Parkinson's,"IPS akinetic-rigid type, THS",59,65,178,102,MALE,RIGHT,False,Unknown,1
+339,Parkinson's,IPS hypokinetic-rigid type,47,50,171,113,FEMALE,RIGHT,False,Worsening,1
+340,Essential Tremor,Essential Tremor,67,78,162,78,FEMALE,RIGHT,True,Unknown,2
+341,Parkinson's,IPS hypokinetic-rigid type. Test of Duodopapump,61,76,152,53,FEMALE,RIGHT,False,Unknown,1
+342,Parkinson's,"IPS tremordominant type, DD monosymptomatic tremor",69,72,189,92,MALE,RIGHT,False,Unknown,1
+343,Parkinson's,IPS tremordominant type,51,53,182,86,MALE,RIGHT,True,No effect,1
+344,Parkinson's,IPS akinetic-rigid type,0,75,194,87,MALE,RIGHT,False,Unknown,1
+345,Parkinson's,IPS hypokinetic-rigid type,59,64,175,86,MALE,LEFT,True,No effect,1
+346,Parkinson's,"IPS hypokinetic-rigid type, THS",42,50,183,92,MALE,RIGHT,False,Unknown,1
+347,Parkinson's,IPS mixed type,63,67,174,100,MALE,RIGHT,True,Unknown,1
+348,Parkinson's,IPS akinetic-rigid type,0,67,180,83,MALE,RIGHT,False,Unknown,1
+349,Parkinson's,IPS tremordominant type,70,81,173,75,MALE,RIGHT,True,Improvement,1
+350,Essential Tremor,Essential Tremor,20,52,165,48,FEMALE,RIGHT,False,Unknown,2
+351,Parkinson's,IPS tremordominant type. Symptomatic Restless-Legs-Syndrome,80,85,177,75,MALE,RIGHT,False,Unknown,1
+352,Parkinson's,Not Applicable,45,55,172,80,FEMALE,RIGHT,True,No effect,1
+353,Parkinson's,IPS mixed type,58,64,185,122,MALE,RIGHT,False,No effect,1
+354,Parkinson's,IPS hypokinetic-rigid type,67,74,175,90,MALE,RIGHT,False,Unknown,1
+355,Parkinson's,IPS mixed type,77,80,179,84,MALE,RIGHT,False,Unknown,1
+356,Parkinson's,PSP-RS had an anamnestic diagnosis of IPS mixed type,73,76,176,106,MALE,RIGHT,False,No effect,1
+357,Parkinson's,IPS hypokinetic-rigid type,71,74,173,75,MALE,RIGHT,True,Unknown,1
+358,Parkinson's,IPS tremordominant type,66,68,187,85,MALE,RIGHT,False,No effect,1
+359,Other Movement Disorders,IPS mixed type,62,71,174,69,MALE,RIGHT,False,Worsening,2
+360,Parkinson's,Movement disorder of unclear etiology,43,49,182,93,MALE,RIGHT,False,Improvement,1
+361,Parkinson's,"IPS, no treatment yet",53,55,164,58,FEMALE,RIGHT,True,Unknown,1
+362,Parkinson's,IPS hypokinetic-rigid type,65,77,176,90,MALE,RIGHT,False,Unknown,1
+363,Parkinson's,IPS mixed type,60,62,168,65,MALE,RIGHT,False,Unknown,1
+364,Parkinson's,IPS hypokinetic-rigid type,65,69,181,95,MALE,RIGHT,False,No effect,1
+365,Parkinson's,IPS mixed type,72,74,165,87,FEMALE,RIGHT,False,Unknown,1
+366,Parkinson's,IPS hypokinetic-rigid type,68,70,187,85,MALE,RIGHT,False,No effect,1
+367,Other Movement Disorders,IPS tremordominant type,38,42,174,72,FEMALE,LEFT,True,No effect,2
+368,Parkinson's,IPS akinetic-rigid type,54,68,180,104,FEMALE,RIGHT,False,Unknown,1
+369,Parkinson's,IPS hypokinetic-rigid type,57,66,178,90,MALE,LEFT,False,No effect,1
+370,Healthy,Not Applicable,85,85,176,77,MALE,RIGHT,False,No effect,0
+371,Healthy,Not Applicable,48,48,177,67,FEMALE,RIGHT,True,Unknown,0
+372,Parkinson's,IPS akinetic-rigid type,60,66,178,100,MALE,RIGHT,False,No effect,1
+373,Other Movement Disorders,Tardive dyskinesia after neuroleptic therapy,51,53,163,60,FEMALE,RIGHT,False,Unknown,2
+374,Parkinson's,IPS tremordominant type,66,72,186,75,MALE,RIGHT,False,No effect,1
+375,Parkinson's,IPS mixed type,73,76,198,118,MALE,RIGHT,False,No effect,1
+376,Parkinson's,IPS mixed type,63,66,172,110,MALE,RIGHT,False,Unknown,1
+377,Parkinson's,"IPS mixed type, conversion from Duodopa pump to Lecigon pump",48,58,180,68,MALE,RIGHT,True,Improvement,1
+378,Parkinson's,IPS mixed type,67,70,162,62,FEMALE,RIGHT,False,Unknown,1
+379,Healthy,Not Applicable,81,81,184,84,MALE,RIGHT,False,Unknown,0
+380,Parkinson's,IPS hypokinetic-rigid type,47,47,179,76,MALE,RIGHT,False,Unknown,1
+381,Parkinson's,IPS hypokinetic-rigid type,58,71,180,63,MALE,RIGHT,False,Unknown,1
+382,Essential Tremor,"Essential Tremor, Periodic leg movement while awake and asleep, Restless-Legs-Syndrome",22,72,185,130,MALE,RIGHT,True,Unknown,2
+383,Parkinson's,IPS akinetic-rigid type,72,75,174,68,MALE,RIGHT,True,No effect,1
+384,Parkinson's,IPS akinetic-rigid type,68,78,162,48,FEMALE,RIGHT,True,Worsening,1
+385,Parkinson's,IPS akinetic-rigid type,51,55,160,60,FEMALE,RIGHT,True,No effect,1
+386,Essential Tremor,Temporal Lobe Epilepsy,3,57,172,100,FEMALE,RIGHT,True,No effect,2
+387,Parkinson's,IPS,50,61,182,95,MALE,RIGHT,False,Unknown,1
+388,Parkinson's,IPS mixed type,67,68,179,72,FEMALE,RIGHT,False,No effect,1
+389,Healthy,Not Applicable,67,67,158,70,FEMALE,RIGHT,True,No effect,0
+390,Parkinson's,Not Applicable,43,63,165,120,MALE,RIGHT,True,Unknown,1
+391,Healthy,Not Applicable,54,54,168,60,FEMALE,RIGHT,False,Unknown,0
+392,Parkinson's,IPS akinetic-rigid type,48,55,165,64,FEMALE,RIGHT,False,Improvement,1
+393,Parkinson's,IPS akinetic-rigid type,51,54,160,59,FEMALE,RIGHT,False,No effect,1
+394,Parkinson's,IPS hypokinetic-rigid type,58,64,181,102,MALE,RIGHT,False,No effect,1
+395,Parkinson's,IPS tremordominant type,53,54,180,100,FEMALE,RIGHT,True,No effect,1
+396,Essential Tremor,"Essential Tremor, THS",75,79,166,83,MALE,RIGHT,False,Unknown,2
+397,Atypical Parkinsonism,Multiple System Atrophy of Cerebellar type,50,54,180,85,MALE,RIGHT,False,Worsening,2
+398,Parkinson's,PSP,75,75,165,90,MALE,RIGHT,True,Unknown,1
+399,Other Movement Disorders,Atypical Parkinsonism,54,55,179,85,MALE,RIGHT,False,Unknown,2
+400,Parkinson's,Essential Tremor DD IPS,64,69,191,94,MALE,RIGHT,False,No effect,1
+401,Parkinson's,IPS mixed type,48,57,164,73,FEMALE,RIGHT,False,Unknown,1
+402,Healthy,Not Applicable,80,80,177,92,MALE,RIGHT,True,Unknown,0
+403,Parkinson's,"IPS, gait disorder",62,65,190,93,MALE,RIGHT,False,Unknown,1
+404,Other Movement Disorders,Tremor of unknown etiology. Lewy-Body-Dementia,77,83,170,78,FEMALE,RIGHT,False,No effect,2
+405,Parkinson's,"IPS tremordominant type, THS",47,51,188,120,MALE,RIGHT,False,Improvement,1
+406,Parkinson's,"IPS mixed type, THS",49,58,178,85,MALE,RIGHT,True,No effect,1
+407,Healthy,Not Applicable,52,52,182,97,FEMALE,RIGHT,False,Unknown,0
+408,Healthy,Not Applicable,44,44,167,50,FEMALE,RIGHT,False,Unknown,0
+409,Parkinson's,IPS mixed type,79,79,172,86,FEMALE,RIGHT,False,No effect,1
+410,Parkinson's,IPS hypokinetic-rigid type,61,63,158,61,FEMALE,RIGHT,False,No effect,1
+411,Parkinson's,"IPS tremordominant type, Restless-Legs-Syndrom, THS",45,59,178,85,MALE,RIGHT,True,Unknown,1
+412,Parkinson's,IPS hypokinetic-rigid type,43,47,158,54,FEMALE,RIGHT,False,Worsening,1
+413,Parkinson's,Operation after spinal disc herniation. Hemilaminectomy and revision. Fracture of humerus head right,58,66,181,104,MALE,RIGHT,False,No effect,1
+414,Other Movement Disorders,Starting hypokinetic-rigid syndrome,67,69,180,77,MALE,LEFT,False,Unknown,2
+415,Parkinson's,"IPS tremordominant type, THS",44,55,165,70,FEMALE,RIGHT,False,Unknown,1
+416,Healthy,Not Applicable,72,72,168,63,FEMALE,RIGHT,False,No effect,0
+417,Parkinson's,"IPS mixed type, THS",60,78,186,83,MALE,LEFT,True,Unknown,1
+418,Parkinson's,IPS mixed type,70,78,178,85,MALE,RIGHT,False,Unknown,1
+419,Healthy,Not Applicable,65,65,182,98,MALE,RIGHT,False,No effect,0
+420,Healthy,Not Applicable,57,57,153,112,FEMALE,RIGHT,False,Unknown,0
+421,Multiple Sclerosis,Multiple Sclerosis of relapsing type,47,49,168,71,FEMALE,RIGHT,False,Unknown,2
+422,Parkinson's,"IPS hypokinetic-rigid type, THS",42,57,181,124,MALE,RIGHT,False,Unknown,1
+423,Essential Tremor,THS. Before optimization of THS,20,50,162,74,FEMALE,RIGHT,True,Improvement,2
+424,Parkinson's,IPS akinetic-rigid type,54,55,181,85,MALE,RIGHT,False,Unknown,1
+425,Parkinson's,IPS akinetic-rigid type,50,51,182,181,MALE,RIGHT,True,Unknown,1
+426,Parkinson's,IPS hypokinetic-rigid type,73,74,174,80,MALE,RIGHT,False,No effect,1
+427,Healthy,Not Applicable,50,50,170,59,FEMALE,RIGHT,True,Unknown,0
+428,Parkinson's,IPS hypokinetic-rigid type,53,67,187,70,MALE,RIGHT,False,Worsening,1
+429,Essential Tremor,"Essential Tremor, THS",50,82,178,111,MALE,RIGHT,False,Improvement,2
+430,Parkinson's,IPS tremordominant type,63,66,160,72,FEMALE,RIGHT,True,No effect,1
+431,Parkinson's,"IPS mixed type, THS",38,50,169,74,MALE,RIGHT,False,No effect,1
+432,Multiple Sclerosis,Multiple Sclerosis of relapsing type,32,60,158,58,FEMALE,RIGHT,False,Unknown,2
+433,Parkinson's,IPS akinetic-rigid type,69,79,167,56,FEMALE,RIGHT,False,Unknown,1
+434,Other Movement Disorders,Arthrosis,0,75,162,52,FEMALE,RIGHT,False,No effect,2
+435,Parkinson's,IPS akinetic-rigid type,59,78,170,90,MALE,RIGHT,False,Unknown,1
+436,Healthy,Not Applicable,75,75,173,84,MALE,RIGHT,False,Unknown,0
+437,Parkinson's,Not Applicable,65,65,173,100,MALE,RIGHT,False,No effect,1
+438,Multiple Sclerosis,"MS type Bali, THS due to severe intention tremor, moderate left hemiparesis",30,43,173,85,MALE,RIGHT,False,Improvement,2
+439,Other Movement Disorders,Spinocerebellar syndrome with cerebral atrophy. Intention tremor both-sided asymmetric,57,69,179,60,MALE,LEFT,False,Unknown,2
+440,Parkinson's,IPS mixed type,57,69,176,86,MALE,RIGHT,False,Unknown,1
+441,Parkinson's,"IPS tremordominant type, severe secondary Restless-Legs-Syndrome",63,65,179,86,MALE,RIGHT,False,No effect,1
+442,Parkinson's,"IPS mixed type, Restless-Legs-Syndrom",58,67,165,50,FEMALE,RIGHT,False,No effect,1
+443,Parkinson's,IPS hypokinetic-rigid type,63,69,179,81,MALE,RIGHT,False,Unknown,1
+444,Healthy,Not Applicable,42,42,170,62,FEMALE,RIGHT,False,No effect,0
+445,Essential Tremor,Not Applicable,45,45,165,53,FEMALE,RIGHT,False,Improvement,2
+446,Parkinson's,IPS akinetic-rigid type,60,63,165,77,FEMALE,RIGHT,True,Unknown,1
+447,Parkinson's,IPS hypokinetic-rigid type,55,73,187,89,MALE,RIGHT,True,No effect,1
+448,Parkinson's,IPS akinetic-rigid type,53,56,190,102,MALE,RIGHT,True,Worsening,1
+449,Healthy,Not Applicable,45,45,194,109,MALE,RIGHT,True,No effect,0
+450,Other Movement Disorders,Hereditary ataxia,0,59,186,83,MALE,RIGHT,False,Unknown,2
+451,Other Movement Disorders,"Unknown Tremor, THS",42,47,162,76,FEMALE,RIGHT,False,Improvement,2
+452,Parkinson's,IPS mixed type. Paralysis of the right arm,54,62,186,90,MALE,RIGHT,True,Improvement,1
+453,Other Movement Disorders,Not Applicable,0,48,164,59,FEMALE,RIGHT,False,Unknown,2
+454,Parkinson's,"IPS mixed type, orthostatic dysregulation",66,73,168,66,FEMALE,RIGHT,False,Unknown,1
+455,Healthy,Not Applicable,60,60,175,100,FEMALE,RIGHT,False,Unknown,0
+456,Parkinson's,IPS hypokinetic-rigid type,70,73,176,87,MALE,RIGHT,False,Unknown,1
+457,Healthy,Not Applicable,69,69,167,92,FEMALE,RIGHT,False,No effect,0
+458,Parkinson's,IPS hypokinetic-rigid type,47,51,169,51,FEMALE,RIGHT,True,No effect,1
+459,Healthy,Not Applicable,81,81,184,84,MALE,RIGHT,False,Unknown,0
+460,Parkinson's,IPS tremordominant type,65,67,165,71,FEMALE,RIGHT,False,Unknown,1
+461,Parkinson's,"IPS tremordominant type, Essential Tremor.",75,78,169,60,MALE,RIGHT,True,Unknown,1
+462,Other Movement Disorders,Cerebellar ataxia,0,58,160,75,FEMALE,RIGHT,False,Unknown,2
+463,Healthy,Not Applicable,65,65,180,90,MALE,RIGHT,False,No effect,0
+464,Parkinson's,IPS tremordominant type,36,51,184,68,MALE,RIGHT,False,No effect,1
+465,Parkinson's,IPS mixed type,62,65,175,80,MALE,RIGHT,True,No effect,1
+466,Healthy,Not Applicable,84,84,172,74,FEMALE,RIGHT,True,No effect,0
+467,Parkinson's,"Essential Tremor, starting IPS tremordominant type",55,57,190,100,MALE,RIGHT,False,Improvement,1
+468,Parkinson's,IPS mixed type,73,76,198,118,MALE,RIGHT,False,No effect,1
+469,Parkinson's,IPS tremordominant type,44,54,165,67,FEMALE,RIGHT,False,Unknown,1
