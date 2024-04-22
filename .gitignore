@@ -1,4 +1,34 @@
-.DS_Store
-env
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+dags/__pycache__
+# Ignore local settings file (if any)
 .env
+
+# Ignore system files
+.DS_Store
+
+# Ignore log files
+logs/
+
+# Ignore temporary files
+*.log
+*.pid
+*.state
+
+# Ignore database files
+airflow.db
+airflow-webserver.db
+.airflow/
+
+# Ignore virtual environment directories
+venv/
+env/
+virtualenv/
+
+# Ignore Docker related files
+.dockerignore
+# docker-compose.yml
+Dockerfile
+
 datasets/medical-imaging/input/images/*
