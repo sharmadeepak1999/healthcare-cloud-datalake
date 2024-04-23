@@ -51,7 +51,7 @@ def create_dag(dataset_file, bucket_name, description="Sample Description", dag_
     return dag
 
 dataset_file_path = 'datasets/medical-imaging/input/medical_imaging_dataset.csv'
-s3_bucket_name = 'your-s3-bucket-name'
+s3_bucket_name = 'deepak-sample-850072525'
 
 dag = create_dag(dataset_file=dataset_file_path, description="This dag is for the medical imaging pipeline", 
                  dag_id="medical_imaging_dag", 

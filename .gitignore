@@ -30,5 +30,6 @@ virtualenv/
 .dockerignore
 # docker-compose.yml
 Dockerfile
+docker-compose.yaml
 
 datasets/medical-imaging/input/images/*

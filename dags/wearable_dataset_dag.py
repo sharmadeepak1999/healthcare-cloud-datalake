@@ -44,7 +44,7 @@ def create_dag(dataset_file, bucket_name, description="Sample Description", dag_
     return dag
 
 dataset_file_path = 'datasets/wearable-dataset/input/wearable_dataset.csv'
-s3_bucket_name = 'your-s3-bucket-name'
+s3_bucket_name = 'deepak-sample-850072525'
 
 dag = create_dag(dataset_file=dataset_file_path, description="This dag is for the wearable dataset pipeline", 
                  dag_id="wearable_dataset_dag", 
