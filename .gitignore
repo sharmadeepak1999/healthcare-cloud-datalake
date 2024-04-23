@@ -29,8 +29,8 @@ virtualenv/
 
 # Ignore Docker related files
 .dockerignore
-# docker-compose.yml
 Dockerfile
-docker-compose.yaml
+*.yaml
+*.yml
 
 datasets/medical-imaging/input/images/*
