@@ -26,7 +26,7 @@ def create_dag(dataset_file, bucket_name, description="Sample Description", dag_
         read_dataset_task = PythonOperator(
             task_id='read_dataset',
             python_callable=read_dataset,
-            op_kwargs={'file_path': dataset_file}
+            op_kwargs={'file_path': dataset_file, 'low_memory': False}
         )
 
         transform_data_task = PythonOperator(
