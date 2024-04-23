@@ -22,6 +22,7 @@ airflow-webserver.db
 .airflow/
 
 # Ignore virtual environment directories
+.venv/
 venv/
 env/
 virtualenv/
