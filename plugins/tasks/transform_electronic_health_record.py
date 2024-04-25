@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 import os
+from scipy import stats
 
 def map_and_fill_missing_values(dataframe, from_col, to_col):
    temp_df = dataframe.copy()
@@ -73,6 +74,9 @@ def transform_electronic_health_record(ti):
     df["Permanent Facility Id"] = df["Permanent Facility Id"].astype(int)
     df["Total Charges"] = df["Total Charges"].replace(",", "", regex=True).astype(float)
     df["Total Costs"] = df["Total Costs"].replace(",", "", regex=True).astype(float)
+
+    df["Total Charges"] = stats.boxcox(df["Total Charges"])[0]
+    df["Total Costs"] = stats.boxcox(df["Total Costs"])[0]
 
     df = detect_and_impute_outliers(df, "Total Charges")
     df = detect_and_impute_outliers(df, "Total Costs")
