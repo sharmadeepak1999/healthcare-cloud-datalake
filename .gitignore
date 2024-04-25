@@ -36,8 +36,7 @@ Dockerfile
 datasets/medical-imaging/input/images/*
 !datasets/medical-imaging/input/.gitkeep
 
-datasets/electronic-health-record/input/*
-!datasets/electronic-health-record/input/.gitkeep
+datasets/electronic-health-record/input/*.csv
+datasets/electronic-health-record/output/*.csv
 
-datasets/electronic-health-record/output/*
-!datasets/electronic-health-record/output/.gitkeep
+analytics/electronic_health_record/insights/*.png
