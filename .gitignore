@@ -42,3 +42,7 @@ datasets/electronic-health-record/output/*.csv
 analytics/electronic_health_record/insights/*.png
 
 architecture/
+
+# Ignore mlartifacts and mlruns
+mlruns/
+mlartifacts/
