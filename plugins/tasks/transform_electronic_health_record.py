@@ -81,6 +81,8 @@ def transform_electronic_health_record(ti):
     df = detect_and_impute_outliers(df, "Total Charges")
     df = detect_and_impute_outliers(df, "Total Costs")
 
+    ti.xcom_push(key='transformed_dataset_for_analysis', value=df)
+
     redundant_columns = ["Facility Name", "CCSR Diagnosis Description", "CCSR Procedure Description", "APR DRG Description", "APR MDC Description", "APR Severity of Illness Description"]
     df = df.drop(redundant_columns, axis=1)
 
