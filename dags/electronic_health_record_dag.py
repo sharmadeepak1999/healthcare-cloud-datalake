@@ -5,6 +5,7 @@ from tasks.read_dataset import read_dataset
 from tasks.transform_electronic_health_record import transform_electronic_health_record
 from tasks.upload_s3_dataset import upload_s3_dataset
 from tasks.analyse_electronic_health_record import analyse_electronic_health_record
+from tasks.ml_electronic_health_record import ml_electronic_health_record
 
 default_args = {
     'owner': 'Datalake Capstone Project',
@@ -35,11 +36,6 @@ def create_dag(dataset_file, bucket_name, description="Sample Description", dag_
             python_callable=transform_electronic_health_record
         )
 
-        analyze_data_task = PythonOperator(
-            task_id='analyze_electronic_health_record',
-            python_callable=analyse_electronic_health_record
-        )
-
         upload_dataset = PythonOperator(
             task_id='upload_s3_dataset',
             python_callable=upload_s3_dataset,
@@ -49,8 +45,17 @@ def create_dag(dataset_file, bucket_name, description="Sample Description", dag_
                 'dataset_path': "datasets/electronic-health-record/output/transformed_electronic_health_record_dataset.csv"
             }
         )
-
-        read_dataset_task >> transform_data_task >> upload_dataset
+        
+        analyze_data_task = PythonOperator(
+            task_id='analyze_electronic_health_record',
+            python_callable=analyse_electronic_health_record
+        )
+        
+        ml_task = PythonOperator(
+            task_id='ml_electronic_health_record',
+            python_callable=ml_electronic_health_record
+        )
+        read_dataset_task >> transform_data_task >> upload_dataset >> analyze_data_task >> ml_task
 
     return dag
 
