@@ -1,0 +1,8 @@
+FROM python:3.12.2-slim
+
+WORKDIR /mlflow
+RUN pip install mlflow
+
+EXPOSE 5000
+
+CMD mlflow ui --host $(hostname -I | cut -d' ' -f1)

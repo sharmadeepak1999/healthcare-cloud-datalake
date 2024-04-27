@@ -6,8 +6,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 import mlflow
 import mlflow.sklearn
 import mlflow.pyfunc
-import subprocess
-
 def ml_electronic_health_record(ti):
     data = ti.xcom_pull(task_ids='transform_electronic_health_record', key='transformed_dataset')
 
@@ -21,12 +19,8 @@ def ml_electronic_health_record(ti):
     # Split data into train and test sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
     print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
-
-    command = "mlflow ui"
-    process = subprocess.Popen(command, shell=True)
-
     # Set our tracking server uri for logging
-    mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")
+    mlflow.set_tracking_uri(uri=f"http://mlflow-server:5000")
 
     # Create a new MLflow Experiment
     mlflow.set_experiment("Length of Stay")
