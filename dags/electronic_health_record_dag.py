@@ -4,6 +4,7 @@ from airflow.operators.python_operator import PythonOperator
 from tasks.read_dataset import read_dataset
 from tasks.transform_electronic_health_record import transform_electronic_health_record
 from tasks.upload_s3_dataset import upload_s3_dataset
+from tasks.analyse_electronic_health_record import analyse_electronic_health_record
 
 default_args = {
     'owner': 'Datalake Capstone Project',
@@ -32,6 +33,11 @@ def create_dag(dataset_file, bucket_name, description="Sample Description", dag_
         transform_data_task = PythonOperator(
             task_id='transform_electronic_health_record',
             python_callable=transform_electronic_health_record
+        )
+
+        analyze_data_task = PythonOperator(
+            task_id='analyze_electronic_health_record',
+            python_callable=analyse_electronic_health_record
         )
 
         upload_dataset = PythonOperator(

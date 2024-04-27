@@ -39,7 +39,7 @@ datasets/medical-imaging/input/images/*
 datasets/electronic-health-record/input/*.csv
 datasets/electronic-health-record/output/*.csv
 
-analytics/electronic_health_record/insights/*.png
+analytics/electronic_health_record/insights/plots/*.png
 
 architecture/
 
