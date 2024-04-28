@@ -6,6 +6,8 @@ from tasks.transform_electronic_health_record import transform_electronic_health
 from tasks.upload_s3_dataset import upload_s3_dataset
 from tasks.analyse_electronic_health_record import analyse_electronic_health_record
 from tasks.ml_electronic_health_record import ml_electronic_health_record
+from tasks.upload_s3_analytics_plots import upload_s3_analytics_plots
+import os
 
 default_args = {
     'owner': 'Datalake Capstone Project',
@@ -55,7 +57,16 @@ def create_dag(dataset_file, bucket_name, description="Sample Description", dag_
             task_id='ml_electronic_health_record',
             python_callable=ml_electronic_health_record
         )
-        read_dataset_task >> transform_data_task >> upload_dataset >> analyze_data_task >> ml_task
+        
+        upload_analytics_plots = PythonOperator(
+            task_id='upload_s3_analytics_plots',
+            python_callable=upload_s3_analytics_plots,
+            op_kwargs={
+                'bucket_name': bucket_name,
+                'folder_path': os.path.join(os.environ.get('AIRFLOW_HOME'), "analytics/electronic_health_record/insights/plots")
+            }
+        )
+        read_dataset_task >> transform_data_task >> upload_dataset >> analyze_data_task >> upload_analytics_plots >> ml_task
 
     return dag
 
